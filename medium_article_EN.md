@@ -12,7 +12,7 @@
 
 A study can carry every mark of trust — federal money, a registered protocol, a double blind, a prestige journal — and still be built to deliver a foregone conclusion. I believe the Arnold 2021 trial is such a study, and that its real function is to supply a citable verdict against neurofeedback as a whole. Its conclusion is now used to deny people reimbursement. In my opinion, it does not survive contact with its own methods.
 
-The study: *Double-Blind Placebo-Controlled Randomized Clinical Trial of Neurofeedback for ADHD With 13-Month Follow-Up* (Neurofeedback Collaborative Group; lead author L. Eugene Arnold), published in the *Journal of the American Academy of Child & Adolescent Psychiatry* (JAACAP), 2021; 60(7):841–855. It randomised 144 children (142 analysed), cost $2 million in NIMH funding, and was pre-registered (NCT02251743).
+The study: *Double-Blind Placebo-Controlled Randomized Clinical Trial of Neurofeedback for ADHD With 13-Month Follow-Up* (Neurofeedback Collaborative Group; lead author L. Eugene Arnold), published in the *Journal of the American Academy of Child & Adolescent Psychiatry* (JAACAP), 2021; [60(7):841–855](https://pubmed.ncbi.nlm.nih.gov/32853703/). It randomised 144 children (142 analysed), cost $2 million in NIMH funding, and was pre-registered ([NCT02251743](https://clinicaltrials.gov/study/NCT02251743)).
 
 ## Both arms improved. About equally.
 
@@ -20,13 +20,15 @@ Start with the trial's own headline statistic. From baseline to treatment end, t
 
 A within-group result like this cannot, on its own, prove neurofeedback works; both arms could be improving through expectation, attention, or natural course. But it equally cannot support the headline that was sold — "neurofeedback fails" — because, as the critics show, the comparator was never inert. The "sham" delivered EMG biofeedback, an intervention already reported to reduce ADHD hyperactivity. So the honest reading of "no difference" is "two active treatments performed similarly" — not "neurofeedback is inert."
 
+![Both arms improved — nearly identical effect sizes, d=1.51 vs 1.47.](https://francois352.github.io/cards/en_card_3.png)
+
 ## Where I have seen this before
 
-In 1969, an executive at the tobacco company Brown & Williamson wrote a sentence that became the template for every industry that needed inconvenient science to go away:
+In 1969, an executive at the tobacco company [Brown & Williamson](https://www.industrydocuments.ucsf.edu/tid/rgy93f00) wrote a sentence that became the template for every industry that needed inconvenient science to go away:
 
 > "Doubt is our product, since it is the best means of competing with the 'body of fact' that exists in the mind of the general public. It is also the means of establishing a controversy."
 
-The strategy is not to disprove your opponent — it is to manufacture enough doubt that the public, regulators and insurers stop trusting the evidence. The historians Naomi Oreskes and Erik Conway later named the practice in their book *Merchants of Doubt*.
+The strategy is not to disprove your opponent — it is to manufacture enough doubt that the public, regulators and insurers stop trusting the evidence. The historians Naomi Oreskes and Erik Conway later named the practice in their book [*Merchants of Doubt*](https://en.wikipedia.org/wiki/Merchants_of_Doubt).
 
 I am not claiming anyone here smokes cigars in a back room. I am claiming the **pattern is the same** — and that, in my opinion, this trial is one move in a coordinated effort to discredit a whole field, not an honest test that happened to come out negative. The playbook:
 
@@ -35,9 +37,11 @@ I am not claiming anyone here smokes cigars in a back room. I am claiming the **
 3. **Use credentialed, conflicted experts** — let people with industry ties deliver the verdict.
 4. **Turn the verdict into policy** — feed it to regulators, guideline bodies and insurers until it becomes a wall.
 
+![“Doubt is our product.” — the tobacco playbook, applied to neurofeedback.](https://francois352.github.io/cards/en_card_5.png)
+
 ## The documented criticisms
 
-These are not my inventions. They are documented in the peer-reviewed critical review by Schummer & Sguigna (*NeuroRegulation*, 2024 — which formally calls for the study's retraction) and the methodological analysis by Pigott, Cannon & Trullinger (2021). The load-bearing ones:
+These are not my inventions. They are documented in the peer-reviewed [critical review by Schummer & Sguigna](https://www.neuroregulation.org/article/view/23430) (*NeuroRegulation*, 2024 — which formally calls for the study's retraction) and the [methodological analysis by Pigott, Cannon & Trullinger](https://pubmed.ncbi.nlm.nih.gov/30078340/) (2021). The load-bearing ones:
 
 - **HARKing.** The registered primary comparison was neurofeedback versus "placebo sham." When the so-called sham produced a large, durable improvement, the published conclusion swapped the wording to "control treatment." The relabelling, the critics argue, buries the actual finding: the comparator was never a placebo.
 - **A non-inert comparator.** The "sham" delivered EMG biofeedback. Comparing neurofeedback against a second active intervention and finding "no difference" dismantles the sham-controlled inference the trial rests on.
@@ -58,6 +62,8 @@ I want to be precise: this is **one uncorroborated account**, reported by a crit
 Neurofeedback competes with stimulant medication. By the disclosures cited in the critique, the lead author received research funding from Shire (which became Takeda, maker of a leading ADHD stimulant), Supernus, Otsuka, Roche/Genentech and Young Living, and sat on advisory boards for six pharmaceutical companies. He earlier led the $17.7M NIMH MTA study, whose follow-ups were criticised for downplaying stimulants' diminishing efficacy. The scathing *American Journal of Psychiatry* editorial that amplified this trial — "Neurofeedback for ADHD: Time to Call It Quits?" — was written by James McGough, who per the critique served on the board of Sunovion and consulted for Eli Lilly, Takeda and Tris Pharma.
 
 A disclosed conflict does not, by itself, invalidate research. But in my view it sets the prior on which way the "errors" were likely to lean.
+
+![Follow the money: who benefits when neurofeedback “fails”.](https://francois352.github.io/cards/en_card_6.png)
 
 ## The other side — and why I'm not persuaded
 
@@ -81,9 +87,9 @@ A trial whose control was active, whose outcome was insensitive, whose reward sc
 *How to read this: this is a signed opinion by François Altwies, who has a disclosed commercial interest in neurofeedback. The factual claims are drawn from the peer-reviewed critiques cited below; please read those, and the original Arnold et al. (2021) paper, directly. The editorial-pressure account is a single, uncorroborated allegation and has not been adjudicated; no finding of misconduct against any named individual is asserted. The framing — "manufactured doubt," the tobacco parallel — is my interpretation, offered for debate.*
 
 **Sources**
-- Schummer GJ, Sguigna T (2024). *A Critical Review of: Double-Blind Placebo-Controlled RCT of Neurofeedback for ADHD With 13-Month Follow-Up.* NeuroRegulation 11(1):92–110.
-- Pigott HE, Cannon R, Trullinger M (2021). *The Fallacy of Sham-Controlled Neurofeedback Trials.* J Atten Disord 25(3):448–457.
-- Arnold LE et al. / Neurofeedback Collaborative Group (2021). JAACAP 60(7):841–855. (NCT02251743)
-- Oreskes N, Conway EM (2010). *Merchants of Doubt.* / Brown & Williamson internal memo (1969), "Doubt is our product."
+- Schummer GJ, Sguigna T (2024). [*A Critical Review of: Double-Blind Placebo-Controlled RCT of Neurofeedback for ADHD With 13-Month Follow-Up.*](https://www.neuroregulation.org/article/view/23430) NeuroRegulation 11(1):92–110.
+- Pigott HE, Cannon R, Trullinger M (2021). [*The Fallacy of Sham-Controlled Neurofeedback Trials.*](https://pubmed.ncbi.nlm.nih.gov/30078340/) J Atten Disord 25(3):448–457.
+- Arnold LE et al. / Neurofeedback Collaborative Group (2021). [JAACAP 60(7):841–855](https://pubmed.ncbi.nlm.nih.gov/32853703/). ([NCT02251743](https://clinicaltrials.gov/study/NCT02251743))
+- Oreskes N, Conway EM (2010). [*Merchants of Doubt.*](https://en.wikipedia.org/wiki/Merchants_of_Doubt) / [Brown & Williamson internal memo (1969), "Doubt is our product."](https://www.industrydocuments.ucsf.edu/tid/rgy93f00)
 
-*The full, interactive version of this analysis — with the data visualisation, the conflict-of-interest map and an interactive demo — lives here: https://francois352.github.io/ (français : https://francois352.github.io/le-doute-fabrique/).*
+*This analysis is part of my evidence-curation project, [brain-curator.org](https://brain-curator.org/). The full, interactive version — with the data visualisation, the conflict-of-interest map and an interactive demo — lives here: https://francois352.github.io/ (français : https://francois352.github.io/le-doute-fabrique/).*

@@ -96,7 +96,7 @@
           <a class="button" href="https://github.com/francois352/hermes-config">Open fleet KB</a>
         </div>
         <div class="status-strip" role="list">
-          <div class="status-cell" role="listitem"><span class="label verified">Verified</span><strong>Cloud instance healthy</strong><small>RUNNING · LHR · dashboard reachable</small></div>
+          <div class="status-cell" role="listitem"><span class="label waiting">Risk</span><strong>Cloud chat auth degraded</strong><small>Compute healthy · authenticated dashboard APIs return 503</small></div>
           <div class="status-cell" role="listitem"><span class="label verified">Verified</span><strong>Two write deploy keys</strong><small>Obsidian vault + hermes-config</small></div>
           <div class="status-cell" role="listitem"><span class="label verified">Verified</span><strong>VPS2 task started</strong><small>task_20260904_9jG0_f · in progress</small></div>
           <div class="status-cell" role="listitem"><span class="label waiting">Waiting</span><strong>Portal OAuth approval</strong><small>Browser authorization by François</small></div>
@@ -124,7 +124,8 @@
           <table>
             <thead><tr><th>Claim</th><th>Label</th><th>Evidence</th><th>Implication</th></tr></thead>
             <tbody>
-              <tr><td>Cloud agent is live</td><td><span class="label verified">Verified</span></td><td>Nous Cloud organization readback returned <code>RUNNING</code>, <code>HEALTHY</code>, region <code>lhr</code>.</td><td>Management target exists and is reachable through the current MCP identity.</td></tr>
+              <tr><td>Cloud compute is live</td><td><span class="label verified">Verified</span></td><td>Nous Cloud organization readback returned <code>RUNNING</code>, <code>HEALTHY</code>, region <code>lhr</code>.</td><td>Management target exists and is reachable through the current MCP identity.</td></tr>
+              <tr><td>Cloud dashboard chat auth is degraded</td><td><span class="label waiting">Risk</span></td><td>At 2026-09-04T17:53Z, <code>/api/sessions</code> returned <code>401</code> without auth and <code>503</code> with the Desktop OAuth bearer: <code>Auth provider nous unreachable</code>.</td><td>The durable Git bridge report is published, but direct transcript paste/readback cannot be claimed yet.</td></tr>
               <tr><td>Cloud has repo write access</td><td><span class="label verified">Verified</span></td><td>Deploy keys <code>162280085</code> and <code>162280088</code> read back with <code>read_only=false</code> and <code>verified=true</code>.</td><td>Cloud can contribute via branches and pull requests.</td></tr>
               <tr><td>Main requires a pull request</td><td><span class="label verified">Verified</span></td><td>Ruleset <code>22272137</code> is active on <code>hermes-config</code> and contains a pull-request rule.</td><td>Knowledge/config changes get a review gate before fleet propagation.</td></tr>
               <tr><td>No cloud-to-fleet SSH</td><td><span class="label verified">Verified</span></td><td>Decision D2 was recorded and provided as previously verified context; no SSH credential was provisioned.</td><td>Coordination remains auditable and least-connected.</td></tr>
@@ -184,6 +185,7 @@
           <li>Live Veritas evidence: task <code>task_20260904_9jG0_f</code> read back and started at 2026-09-04T17:29:45Z.</li>
           <li>Live GitHub evidence: deploy-key and ruleset API readbacks at 2026-09-04T17:30:36Z.</li>
           <li>Live Nous Cloud evidence: organization-scoped agent list/get returned the 8883 instance as running and healthy.</li>
+          <li>Cloud dashboard auth evidence at 2026-09-04T17:53Z: <code>/api/sessions</code> was <code>401</code> without auth and <code>503</code> with Desktop OAuth because the <code>nous</code> auth provider was unreachable.</li>
           <li>Authoritative product docs: <a href="https://hermes-agent.nousresearch.com/docs/user-guide/features/mcp">Hermes MCP</a>, <a href="https://hermes-agent.nousresearch.com/docs/user-guide/desktop">Hermes Desktop</a>, and <a href="https://hermes-agent.nousresearch.com/docs/user-guide/configuration">Hermes configuration</a>.</li>
         </ul>
       </div>

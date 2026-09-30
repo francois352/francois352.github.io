@@ -4,7 +4,7 @@
 
 ---
 
-**Who I am, and why I'm telling you this.** I'm François Altwies, founder and clinical director of Neurofeedback Luxembourg. Over a decade I've overseen more than 3,000 brain assessments and 20,000 neurofeedback sessions; our clinic also provides recoveriX, a CE-marked Class IIb brain–computer-interface system for stroke rehabilitation.
+**Who I am, and why I'm telling you this.** I'm François Altwies, founder and clinical director of Neurofeedback Luxembourg. Over a decade I've overseen more than 3,500 brain maps and 20,000 neurofeedback sessions; our clinic also provides recoveriX, a CE-marked Class IIb brain–computer-interface system for stroke rehabilitation.
 
 **My conflict of interest, stated plainly:** I make my living from neurofeedback. I therefore have a direct professional and commercial interest in how this field is judged. Read everything below with that in mind. This is a *signed opinion*, not a neutral report — but every factual claim is drawn from the published, peer-reviewed critiques cited at the end, and I've tried to separate what is documented fact from what is my interpretation. Where I infer intent, I say so. Weigh my reading against my interest, and against the sources directly.
 
